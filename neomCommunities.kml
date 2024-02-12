@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Neom Communities</name>
+	<gx:CascadingStyle kml:id="__managed_style_24C068AE132E85335FCC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1FC4B9D67A2E85335FCC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0414E63B3F2E85335FCC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FC4B9D67A2E85335FCC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24C068AE132E85335FCC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0523EFD4182E85335FC9">
+		<name>NC1</name>
+		<LookAt>
+			<longitude>35.10586796907432</longitude>
+			<latitude>28.10169322881693</latitude>
+			<altitude>52.55900865350875</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7972.44669034495</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0414E63B3F2E85335FCC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						35.10559701734564,28.1059235303764,0 35.11118120614393,28.10597332019615,0 35.11222482826969,28.10159437620737,0 35.11592183284886,28.08822203871846,0 35.12424435874415,28.0953373185633,0 35.12327764727811,28.10949613849904,0 35.11959993943609,28.1134201634613,0 35.11233694340177,28.11588818995621,0 35.10528266173004,28.1158870218724,0 35.10559701734564,28.1059235303764,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="047581B63F2E85394475">
+		<name>NC2</name>
+		<LookAt>
+			<longitude>35.32289064925433</longitude>
+			<latitude>28.11536408360273</latitude>
+			<altitude>179.6271789698666</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00032023068208</gx:fovy>
+			<range>2426.668508635776</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0414E63B3F2E85335FCC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						35.32435883213437,28.11611020131099,0 35.31789819899729,28.11605434343496,0 35.31795636874529,28.11421658933143,0 35.31712693689317,28.11419538802168,0 35.31718591882049,28.110889277658,0 35.31797312591196,28.11088355423784,0 35.31799616606175,28.10895355845183,0 35.31953450863993,28.10896084007789,0 35.31975414589456,28.10901681173534,0 35.3197646931299,28.10952659127627,0 35.320587262003,28.10952704430792,0 35.32182617714835,28.10958139514236,0 35.3237095043355,28.10973455545718,0 35.3245486128108,28.10977837720116,0 35.32452157478328,28.11163524733641,0 35.32532052760938,28.11167966759156,0 35.32527529830274,28.11287644079191,0 35.3252796184792,28.11365797365025,0 35.32541143136417,28.11473701019318,0 35.32450374870371,28.11473279242054,0 35.32435883213437,28.11611020131099,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="03FA8C66C42E853AFAD2">
+		<name>Oxagon</name>
+		<LookAt>
+			<longitude>35.5350687745949</longitude>
+			<latitude>27.54972292205195</latitude>
+			<altitude>10.93831270909281</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00032023068208</gx:fovy>
+			<range>1571.092089235608</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0414E63B3F2E85335FCC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						35.53209022815885,27.54642580600567,0 35.53859071333333,27.5473769060276,0 35.53781994347545,27.55199865017219,0 35.53115030922336,27.55217160498159,0 35.53115851954826,27.55189062420926,0 35.53209022815885,27.54642580600567,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0F419F05AB2E853E441D">
+		<name>Trojena</name>
+		<LookAt>
+			<longitude>35.31735027148359</longitude>
+			<latitude>28.72021926049554</latitude>
+			<altitude>1958.445486227654</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99939499907668</gx:fovy>
+			<range>2487.395487745525</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0414E63B3F2E85335FCC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						35.31705094980557,28.72452842068265,0 35.3165800495769,28.72385343391866,0 35.31568328376277,28.72360811121086,0 35.31446920105888,28.72328825635157,0 35.31388322589327,28.7244624846183,0 35.31113973860252,28.72366006311357,0 35.31067403610694,28.72239985374511,0 35.3120321068764,28.71813886484399,0 35.31316887761945,28.71752456083815,0 35.31369833137615,28.71680143827837,0 35.31479476611775,28.7170591642874,0 35.31525175392323,28.71724916166818,0 35.31549017908171,28.72081038849909,0 35.31504210591508,28.72238480015838,0 35.31669554392091,28.72333299145332,0 35.31705094980557,28.72452842068265,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0FCF8D03702E8541EA68">
+		<name>Trojena 2</name>
+		<LookAt>
+			<longitude>35.44943869530742</longitude>
+			<latitude>28.74249630747614</latitude>
+			<altitude>1392.323767723841</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99939499907668</gx:fovy>
+			<range>2771.122865072976</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0414E63B3F2E85335FCC</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						35.45989485062287,28.74401913482277,0 35.4525978713558,28.74491898000391,0 35.44880387961882,28.74430440397121,0 35.44894124500563,28.74373406979698,0 35.44629357251252,28.74328165387307,0 35.4451452404747,28.74249842936472,0 35.44575538534513,28.74092589990843,0 35.44499026312269,28.74006888248945,0 35.44187325261431,28.73924485764108,0 35.44068645589955,28.73842218263644,0 35.44284626305129,28.73785378936355,0 35.44478519243903,28.73822670860181,0 35.44708506520427,28.73806340075526,0 35.45099272842461,28.73918118358032,0 35.4586750714521,28.74152586834473,0 35.46034764865342,28.74157323342332,0 35.45989485062287,28.74401913482277,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
